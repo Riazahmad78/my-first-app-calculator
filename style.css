@@ -1,0 +1,34 @@
+.main 
+{
+border: 2px solid grey;
+width: 200px;
+margin: 0 auto;
+}
+.result{
+    width: 96%;
+    background-color:grey;
+    color:white;
+}
+.clearBtn{
+    width: 49%;
+    margin-top: 10px;
+    background-color: gray;
+}
+.Btn{
+    width: 46px;
+    margin-top: 5px;
+    background-color: gray;
+    margin-left: 1px;
+}
+.halfbtn{
+    width: 49%;
+    margin-top: 5px;
+    background-color: gray;
+}
+body{
+    background-image: url(GMKOpF.jpg);
+    background-repeat: repeat;
+}
+h1{
+    text-align: center;
+}
